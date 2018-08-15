@@ -1,0 +1,12 @@
+﻿  Chapter1.cpp
+c:\users\prateek\desktop\3rd_year\interview_practice\ctci\chapter1\chapter1\chapter1.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\prateek\desktop\3rd_year\interview_practice\ctci\chapter1\chapter1\chapter1.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\prateek\desktop\3rd_year\interview_practice\ctci\chapter1\chapter1\chapter1.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\prateek\desktop\3rd_year\interview_practice\ctci\chapter1\chapter1\chapter1.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\prateek\desktop\3rd_year\interview_practice\ctci\chapter1\chapter1\chapter1.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\prateek\desktop\3rd_year\interview_practice\ctci\chapter1\chapter1\chapter1.cpp(255): warning C4018: '<': signed/unsigned mismatch
+c:\users\prateek\desktop\3rd_year\interview_practice\ctci\chapter1\chapter1\chapter1.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\prateek\desktop\3rd_year\interview_practice\ctci\chapter1\chapter1\chapter1.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\prateek\desktop\3rd_year\interview_practice\ctci\chapter1\chapter1\chapter1.cpp(265): warning C4018: '<': signed/unsigned mismatch
+  Chapter1.vcxproj -> C:\Users\Prateek\Desktop\3rd_year\interview_practice\CTCI\Chapter1\Debug\Chapter1.exe
+  Chapter1.vcxproj -> C:\Users\Prateek\Desktop\3rd_year\interview_practice\CTCI\Chapter1\Debug\Chapter1.pdb (Partial PDB)
